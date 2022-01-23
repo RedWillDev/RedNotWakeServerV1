@@ -29,7 +29,7 @@ def TCP():
         elif data == b'TurnON':
             print("test")
 
-
+# /dqsd
 
 var = input("? : ")
 
